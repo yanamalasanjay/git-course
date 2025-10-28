@@ -1,3 +1,5 @@
 get user data
 
 process the data
+
+create an avatar
